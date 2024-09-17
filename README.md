@@ -1,5 +1,6 @@
 # Synchronverter Model: A Study on Self-Synchronized Synchronverters
-
+[![Static Badge](https://img.shields.io/badge/Hamed-Najafi-blue)]()
+[![Static Badge](https://img.shields.io/badge/MATLAB%C2%AE-HamedNajafi-blue?style=plastic&logo=MATLAB)]()
 This repository provides a model and a detailed report on **self-synchronized synchronverter**, inverter that mimic a synchronous generator. The synchronverter concept bridges the gap between conventional power generation and renewable energy integration in smart grids, offering a seamless mechanism for synchronizing power inverters with the grid without the need for a dedicated synchronization unit, such as a Phase-Locked Loop (PLL).
 
 ## Introduction
